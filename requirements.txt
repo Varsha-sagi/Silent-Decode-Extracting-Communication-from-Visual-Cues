@@ -1,0 +1,8 @@
+googletrans
+opencv-python
+flask
+editdistance
+gtts
+torch==2.5.1
+google-generativeai
+python-dotenv
